@@ -2,8 +2,8 @@ import java.util.*;
 
 /**
  *This class gets the name of a user and its basic information
- *Name:
- *Age:
+ *Name:Rother Jon P. Bobiles
+ *Age: 18
  *Birthdate:
  *Address:
  **/
